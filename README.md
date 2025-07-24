@@ -1,5 +1,3 @@
-# ML2_project
-
 # Brain Tumor Detection
 
 ## Project Structure
