@@ -2,8 +2,7 @@
 
 ## Project Structure
 ```
-Final_Project_EPAM
-├── data_loader.py
+Brain Tumor Detection
 ├── Brain Tumor Detection.ipynb
 ├── Brain Tumor Detection.pptx
 ├── README.md
@@ -11,7 +10,7 @@ Final_Project_EPAM
 ```
 
 ### Data Loading
-For reproducibility data is downloaded locally and relative path is set so that it can successfully run locally
+For reproducibility data is downloaded from kaggle, saved to google colab runtime. You will need kaggle account to upload ` kaggle.json ` to google colab code.
 
 ## Model Structure
 
