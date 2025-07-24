@@ -24,9 +24,9 @@ We also fine-tuned a pretrained ResNet18 model:
 - Modified input layer to accept grayscale (1-channel) MRI images
 - Replaced final layer to output 4 tumor classes
 - Benefits:
-Enables training deeper networks
-Solves vanishing gradient via skip connections
-Achieved higher accuracy and generalization vs custom CNN
+-- Enables training deeper networks
+-- Solves vanishing gradient via skip connections
+-- Achieved higher accuracy and generalization vs custom CNN
 
 
 ### Picture Transformation
@@ -34,7 +34,7 @@ Data augmentation is used for preventing overfitting and adding regularization.
 1. Random rotation with +-15 degrees
 2. Vertical and Horizontal flip with 50% probability'
 3. Grayscale conversion, resizing to 224×224
-Normalization: scaled pixel values to [-1, 1]
+-- Normalization: scaled pixel values to [-1, 1]
    
 
 ### Results
