@@ -5,8 +5,7 @@
 Brain Tumor Detection
 ├── Brain Tumor Detection.ipynb
 ├── Brain Tumor Detection.pptx
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ### Data Loading
