@@ -12,7 +12,7 @@ Final_Project_EPAM
 ```
 
 ### Data Loading
-For reproducibility data is downloaded locally and relative path is set so that it can successfully ran locally
+For reproducibility data is downloaded locally and relative path is set so that it can successfully run locally
 
 ## Model Structure
 
