@@ -4,9 +4,8 @@
 ```
 Final_Project_EPAM
 ├── data_loader.py
-├── Capstone_Project.ipynb
-├── Capstone_Project.pptx
-├── outputs 
+├── Brain Tumor Detection.ipynb
+├── Brain Tumor Detection.pptx
 ├── README.md
 └── requirements.txt
 ```
